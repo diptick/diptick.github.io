@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://diptick.github.io/sitemap
+Sitemap: https://diptick.github.io/app/sitemap
+Sitemap: https://diptick.github.io/assets/sitemap
+Sitemap: https://diptick.github.io/css/sitemap
+Sitemap: https://diptick.github.io/includes/sitemap
+Sitemap: https://diptick.github.io/item/sitemap
+Sitemap: https://diptick.github.io/src/sitemap
